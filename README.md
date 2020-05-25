@@ -1,10 +1,9 @@
-**Capstone project 1.**
+**Prediction of credit card defaults.**
 
-Title: Prediction of credit card defaults.
-
-Objective: choose an optimal classification model allowing to calculate the probability of default and identify main predictors. Implement a full data science workflow: data wrangling, data story and preprocessing, identify important features, machine learning classifiers.
-
-ML models: scikit-learn logistic regression, random forest, support vector machine with RBF kernel, XGBoost, voting classifier.
+- Predicted whether a customer defaults as of next month based on a history of credit card repayments.
+- Implemented a full data science workflow.
+- Applied logistic regression, random forest, support vector machine with RBF kernel, XGBoost, voting classifier.
+- Best test AUC = 0.78, FPR = 0.2.
 
 Data wrangling -> data_wrangling.ipynb
 
