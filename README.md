@@ -1,4 +1,4 @@
-**Prediction of credit card defaults.**
+# Prediction of credit card defaults.
 
 - Predicted whether a customer defaults as of next month based on a history of credit card repayments.
 - Implemented a full data science workflow.
